@@ -2,3 +2,8 @@
 
 font-family: 'Press Start 2P', cursive;
 
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
