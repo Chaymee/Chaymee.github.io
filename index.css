@@ -1,7 +1,9 @@
 /* CSS for index.html */
 
 font-family: 'Press Start 2P', cursive;
-
+body{
+    
+}
 ul {
     list-style-type: none;
     margin: 0;
