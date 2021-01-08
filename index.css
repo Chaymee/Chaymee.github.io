@@ -1,6 +1,27 @@
 /* CSS for index.html */
-ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-} 
+.topnav {
+    background-color: #444;
+    overflow: hidden;
+}
+
+/* Style the links inside navigation bar */
+.topnav {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+/* Change the color of the links on hover */
+.topnav a:hover {
+    background-color: #bbb;
+    color: black;
+}
+
+/* Add color to the active/current link */
+.topnav a.active {
+    background-color: aqua;
+    color: aqua;
+}
