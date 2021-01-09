@@ -1,7 +1,7 @@
 /* CSS for index.html */
 /* color scheme https://colors.lol/strawy */
 .topnav {
-    background-color: #444;
+    background-color: #FEB2D0;
     overflow: hidden;
 }
 
@@ -9,7 +9,7 @@
 .topnav {
     float: left;
     display: block;
-    color: pink;
+    color: #FEB2D0;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
