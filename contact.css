@@ -1,6 +1,7 @@
 /* CSS for contact.html */
+/* color scheme https://colors.lol/strawy */
 .topnav {
-    background-color: #444;
+    background-color: #FEB2D0;
     overflow: hidden;
 }
 
@@ -8,7 +9,7 @@
 .topnav {
     float: left;
     display: block;
-    color: pink;
+    color: #FEB2D0;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
@@ -17,12 +18,13 @@
 
 /* Change the color of the links on hover */
 .topnav a:hover {
-    background-color: #ddd;
-    color: black;
+    background-color: #7BC8F6;
+    color: #7BC8F6;
 }
 
 /* Add color to the active/current link */
 .topnav a.active {
-    background-color: aqua;
-    color: aqua;
+    background-color: #A7FFB5; 
+    color: #A7FFB5
+    ;
 }
