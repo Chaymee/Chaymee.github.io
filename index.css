@@ -24,7 +24,7 @@
 
 /* Add color to the active/current link */
 .topnav a.active {
-    /*background-color: #A7FFB5; */
+    background-color: #A7FFB5; 
     color: #A7FFB5
     ;
 }
