@@ -1,0 +1,28 @@
+/* CSS for resume.html */
+.topnav {
+    background-color: #444;
+    overflow: hidden;
+}
+
+/* Style the links inside navigation bar */
+.topnav {
+    float: left;
+    display: block;
+    color: pink;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+/* Change the color of the links on hover */
+.topnav a:hover {
+    background-color: #ddd;
+    color: black;
+}
+
+/* Add color to the active/current link */
+.topnav a.active {
+    background-color: aqua;
+    color: aqua;
+}
